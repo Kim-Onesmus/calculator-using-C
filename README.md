@@ -1,2 +1,3 @@
 # calculator-using-C
-It calculates
+The aim is:
+   To add, multiply, divide or minus
